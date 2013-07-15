@@ -1,0 +1,12 @@
+diff -urN lcdtest-1.18/src/lcdtest.c lcdtest-1.18-patched/src/lcdtest.c
+--- lcdtest-1.18/src/lcdtest.c	2010-01-26 16:26:30.000000000 +1000
++++ lcdtest-1.18-patched/src/lcdtest.c	2013-07-16 02:35:09.805610649 +1100
+@@ -742,7 +742,7 @@
+ }
+ 
+ 
+-const char font_path [] = "/usr/share/fonts/liberation/LiberationMono-Regular.ttf";
++const char font_path [] = "/usr/share/fonts/TTF/liberation/LiberationMono-Regular.ttf";
+ 
+ int main (int argc, char *argv [])
+ {

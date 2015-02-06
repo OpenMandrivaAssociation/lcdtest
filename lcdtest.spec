@@ -1,7 +1,7 @@
 Summary:	Utility to display LCD monitor test patterns
 Name:		lcdtest
 Version:	1.18
-Release:	1
+Release:	2
 License:	GPLv3+
 Group:		System/Configuration/Hardware
 Url:		http://www.brouhaha.com/~eric/software/lcdtest/

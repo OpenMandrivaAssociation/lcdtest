@@ -4,7 +4,7 @@ Version:	1.18
 Release:	2
 License:	GPLv3+
 Group:		System/Configuration/Hardware
-Url:		http://www.brouhaha.com/~eric/software/lcdtest/
+Url:		https://www.brouhaha.com/~eric/software/lcdtest/
 Source0:	http://www.brouhaha.com/~eric/software/%{name}/download/%{name}-%{version}.tar.gz
 Source1:	%{name}.png
 Patch0:		lcdtest-1.18-font-path.patch
